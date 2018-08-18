@@ -1,3 +1,9 @@
-{
-    "python.pythonPath": "${workspaceFolder}/sca-static/bin/python"
+{ 
+    "python.pythonPath": "${workspaceFolder}/sca-static/bin/python",
+    "workbench.iconTheme": "vs-seti",
+    "editor.wordWrap": "on",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "explorer.confirmDragAndDrop": false,
+    "python.jediEnabled": false,
+    "explorer.confirmDelete": false
 }
